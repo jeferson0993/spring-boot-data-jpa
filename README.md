@@ -29,10 +29,10 @@ Alguns exemplos utilisando Spring Boot + Spring Data JPA e diferentes banco de d
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-lorem inpsum
+Java web service que armazena POJOs (Objetos Java simples e antigos) em um banco de dados.
 
 ### Feito com
-Java e banco de dados conteinisados:
+Java e banco de dados:
 * Spring-boot
 * Docker
 * PostgreSql
@@ -63,7 +63,7 @@ As contribuições são o que tornam a comunidade de código aberto um lugar inc
 <!-- LICENSE -->
 ## Licença
 
-Distribuido sob a Licença MIT. Veja `LICENSE` para mais informações.
+Distribuido sob a Licença MIT. Veja [LICENSE](https://github.com/jeferson0993/spring-boot-data-jpa/blob/main/LICENSE) para mais informações.
 
 
 
@@ -87,7 +87,7 @@ Jeferson Ferreira - jeferson0993@gmail.com
 [issues-shield]: https://img.shields.io/github/issues/jeferson0993/spring-boot-data-jpa.svg?style=flat-square
 [issues-url]: https://github.com/jeferson0993/spring-boot-data-jpa/issues
 [license-shield]: https://img.shields.io/github/license/jeferson0993/spring-boot-data-jpa.svg?style=flat-square
-[license-url]: https://github.com/jeferson0993/spring-boot-data-jpa/blob/master/LICENSE
+[license-url]: https://github.com/jeferson0993/spring-boot-data-jpa/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jeferson-ferreira-4a036b143/
 [home-screenshot]: https://user-images.githubusercontent.com/29678099/71330655-f47eb000-250c-11ea-8f5c-3069b4c708f7.png
